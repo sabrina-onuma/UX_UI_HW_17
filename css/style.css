@@ -1,7 +1,7 @@
 .inline-block { 
+    display: inline-block;
     text-align: right;
     width: 200px;
-    margin: auto;
 }
 
 #logoImg {
@@ -44,7 +44,7 @@ p.sidenav {
 
 .heroImg {
     position: fixed;
-    left: 0;
+    right: 0;
     width: 1100px;
 }
 #profileImg {
