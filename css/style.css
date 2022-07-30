@@ -1,12 +1,10 @@
 .inline-block { 
     display: inline-block;
     text-align: right;
-    width: 200px;
 }
 
 #logoImg {
     height: 100px;
-    width: 108px;
     padding: 1%;
     text-align: center;
     top: 0;
@@ -53,6 +51,6 @@ p.sidenav {
     float: left;
 }
 
-.footer{
+footer{
     text-align: left;
 }
