@@ -25,6 +25,15 @@ ul {
     width: 50%;
 }
 
+#myTopnav {
+    height: auto;
+    width: 1400px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    text-align: right;
+}
+
 #mySidenav {
     height: 100%;
     width: 200px;
