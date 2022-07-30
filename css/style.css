@@ -1,6 +1,5 @@
 .inline-block { 
     display: inline-block;
-    vertical-align: top;
     width: 200px;
 }
 
@@ -24,7 +23,7 @@ ul {
 
 #mySidenav {
     height: 100%;
-    width: 20px;
+    width: 200px;
     position: fixed;
     z-index: 1;
     top: 0;
