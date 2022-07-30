@@ -4,10 +4,11 @@
 }
 
 img.logo {
-    width: 20px;
-    height: auto;
+    height: 100px;
     padding: 1%;
     text-align: center;
+    top: 0;
+    left: 0;
 }
 
 nav {
