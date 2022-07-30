@@ -22,7 +22,6 @@ nav {
 }
 
 ul {
-
     width: 50%;
 }
 
@@ -52,12 +51,12 @@ p.sidenav {
     width: 1100px;
 }
 #profileImg {
-    height: 200px;
+    height: 350px;
     float: left;
+    padding: 5%
 }
 
 footer{
     position: absolute;
     text-align: left;
-    bottom: 0;
 }
