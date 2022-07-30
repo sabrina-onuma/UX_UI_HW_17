@@ -4,6 +4,7 @@ body{
 .inline-block { 
     display: inline-block;
     text-align: right;
+    padding: 6px 6px 6px 6px;
 }
 
 #logoImg {
@@ -17,9 +18,11 @@ body{
 nav {
     width: 73%;
     padding: 1%;
+    text-align: right;
 }
 
 ul {
+    
     width: 50%;
 }
 
@@ -34,7 +37,7 @@ ul {
 }
 
 .sidenav{
-    padding: 6px 6px 6px 18px;
+    padding: 6px 6px 6px 6px;
     font-size: 16px;
     display: block;
 }
