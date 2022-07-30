@@ -3,7 +3,7 @@ body{
 }
 .inline-block { 
     display: inline-block;
-    right: 0;
+    text-align: right;
     padding: 6px 6px 6px 6px;
 }
 
@@ -57,6 +57,7 @@ p.sidenav {
 }
 
 footer{
-    position: absolute;
+    position: sticky;
     text-align: left;
+    bottom: 0;
 }
