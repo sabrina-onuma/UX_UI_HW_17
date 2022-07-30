@@ -64,7 +64,8 @@ p.sidenav {
 #profileImg {
     height: 350px;
     float: left;
-    padding: 5%
+    padding-right: 5px;
+    padding-left: 5px;
 }
 
 footer{
