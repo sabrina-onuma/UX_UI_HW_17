@@ -21,7 +21,7 @@ nav {
     text-align: right;
 }
 
-ul {
+ul.sidenav {
     width: 50%;
 }
 
