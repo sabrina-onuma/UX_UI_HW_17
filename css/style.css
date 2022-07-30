@@ -2,7 +2,6 @@ body{
     min-height: 100%;
 }
 .inline-block { 
-    display: inline;
     text-align: right;
     padding: 6px 6px 6px 6px;
 }
@@ -46,7 +45,7 @@ p.sidenav {
 }
 
 .heroImg {
-    position: sticky;
+    position: fixed;
     right: 0;
     width: 1100px;
     margin-right: auto;
