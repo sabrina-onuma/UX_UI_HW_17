@@ -1,5 +1,5 @@
 body{
-    min-height: 1349px;
+    min-height: 100%;
 }
 .inline-block { 
     display: inline-block;
@@ -57,4 +57,5 @@ footer{
     text-align: left;
     display: block;
     margin: auto;
+    bottom: 0;
 }
