@@ -4,7 +4,8 @@
 }
 
 .logo {
-    width: 23%;
+    width: 20px;
+    height: auto;
     padding: 1%;
     text-align: center;
 }
@@ -40,5 +41,7 @@ p {
 }
 
 .heroImg{
+    width: 100px;
+    height: auto;
     text-align: right;
 }
