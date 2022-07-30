@@ -1,9 +1,10 @@
 .inline-block { 
     display: inline-block;
     vertical-align: top;
+    width: 200px;
 }
 
-img.logo {
+#logoImg {
     height: 100px;
     padding: 1%;
     text-align: center;
