@@ -36,12 +36,11 @@ ul {
     display: block;
 }
 
-p {
+p.sidenav {
     font-size: small;
 }
 
 #profileImg {
-    width: 100px;
-    height: auto;
+    height: 100px;
     text-align: right;
 }
