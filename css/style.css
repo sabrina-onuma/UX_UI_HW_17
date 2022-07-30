@@ -3,7 +3,7 @@ body{
 }
 .inline-block { 
     display: inline-block;
-    text-align: right;
+    right: 0;
     padding: 6px 6px 6px 6px;
 }
 
@@ -22,7 +22,7 @@ nav {
 }
 
 ul {
-    
+
     width: 50%;
 }
 
