@@ -52,6 +52,7 @@ ul.sidenav {
 
 p.sidenav {
     font-size: small;
+    font: 500 4rem/normal Be Vietnam;
 }
 
 .heroImg {
@@ -72,4 +73,5 @@ footer{
     position: absolute;
     text-align: left;
     bottom: 0;
+    font-size: x-small;
 }
