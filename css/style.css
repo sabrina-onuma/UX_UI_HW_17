@@ -3,7 +3,7 @@
     vertical-align: top;
 }
 
-.logo {
+img.logo {
     width: 20px;
     height: auto;
     padding: 1%;
@@ -40,7 +40,7 @@ p {
     font-size: small;
 }
 
-img.heroImg {
+#profileImg {
     width: 100px;
     height: auto;
     text-align: right;
